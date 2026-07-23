@@ -37,8 +37,7 @@ The project closely reflects the responsibilities outlined in the Power BI Admin
 ---
 
 # Dashboard Preview
-
-<img width="1373" height="781" alt="Screenshot 2026-07-23 144119" src="https://github.com/user-attachments/assets/269cbd23-55a0-4533-b823-375fbae62cb8" />
+<img width="1372" height="762" alt="image" src="https://github.com/user-attachments/assets/dc7c20b6-c55b-4f1d-9ed1-4201440fb9a5" />
 
 Suggested screenshots:
 
