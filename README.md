@@ -42,12 +42,6 @@ The project closely reflects the responsibilities outlined in the Power BI Admin
 
 Suggested screenshots:
 
-- Overall Dashboard
-- KPI Cards
-- Referral Trend
-- Referral Sources
-- Diagnosis Group
-- Service Type Analysis
 
 ---
 
@@ -249,8 +243,7 @@ Hospice-Patient-Referral-Dashboard/
 │     ├── Dashboard Overview.png
 │     ├── KPI Cards.png
 │     ├── Referral Trend.png
-│── Presentation/
-│     └── Hospice Patient Referral Dashboard Presentation.pdf
+
 ```
 
 ---
